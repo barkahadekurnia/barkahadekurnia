@@ -10,6 +10,7 @@
   - HTML + CSS
   - React
   - NodeJS
+  - Ionic
   - AngularTS
   - PHP
   - MySQL 
