@@ -1,6 +1,6 @@
 ### Hi there my name is Barkah Ade Kurnia 👋
 
-🔭 Junior Web Developer on ENTWO GROUP Cilacap
+🔭 Mobile Developer on ENTWO GROUP Cilacap
 
 🌱 I’m currently learning Mobile Developer Apps
 
